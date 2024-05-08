@@ -3,4 +3,4 @@
 캡스톤 주제 - 보이스피싱 탐지 어플 만들기
 내 파트 - 안드로이드 제작
 예상 완료 시점 : 2024.05.10
-깃 링크 -
+깃 링크 - https://github.com/CapstoneAndroidTeam/youngwoo.git
